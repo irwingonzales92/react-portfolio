@@ -46,11 +46,11 @@ const skills = [{
     },
     {
         name: "React",
-        value: 60,
+        value: 40,
     },
     {
         name: "Machine Learning",
-        value: 40,
+        value: 60,
     },
     {
         name: "Python",
