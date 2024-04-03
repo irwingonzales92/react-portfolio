@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "A bit about my self",
-    aboutme: "Self taught iOS developer that started in 2015 that learned how to build a bunch of stuff like websites, games, AR platforms and now AI apps. My mission is to build cool technology that makes the world a better place, whatever that may be. Currently a student in Machine Learning and on the road to being an ML Engineer.",
+    aboutme: "As a self-taught iOS developer, my journey began in 2015, driven by a passion for creating and exploring the vast capabilities of technology. Over the years, I have honed my skills in diverse areas including website development, game creation, augmented reality platforms, and, most recently, artificial intelligence applications. My guiding principle has always been to leverage technology for the greater good, aiming to build innovative solutions that positively impact the world. Presently, I am expanding my expertise into the realm of Machine Learning, actively pursuing education in this field. My goal is to evolve into a proficient Machine Learning Engineer, continuing my mission to develop groundbreaking technologies that make a meaningful difference.",
 };
 const worktimeline = [{
         jobtitle: "Principal iOS Engineer",
@@ -60,15 +60,15 @@ const skills = [{
 
 const services = [{
         title: "iOS, iPad & MacOS Apps",
-        description: "Building iOS, MacOS and iPadOS apps is my bag, since 2015 and Objective-C. I've used Swift and UIKit but as of 2020, I've transitioned to SwiftUI. I've either contributed or built iOS apps of all sizes (MVP, internal tools and enterprise apps) that are live in the App Store.",
+        description: "Since 2015, my expertise in building iOS, MacOS, and iPadOS apps has been a core strength. Starting with Objective-C, I've since embraced Swift and UIKit, and transitioned to SwiftUI in 2020. My portfolio spans a broad range of applications, from MVPs and internal tools to extensive enterprise apps, all successfully deployed in the App Store. My versatility allows me to contribute significantly to or take the lead in developing iOS apps of varying scales and complexities.",
     },
     {
         title: "AR/VR & Web Technologies",
-        description: "Though I would say AR/VR & Web Technologies were my side quests, I learned a lot and apply persective to any project I'm on. I've worked on cool AR apps that were displayed in Verizon stores and VR scanners that were used in NCAA March Madness tournaments and NBA All-Star Weekend. I've worked on anything between Mesh network systems to SAAS enterprise software.",
+        description: "While exploring AR/VR and Web Technologies as side-quests, I've gained substantial knowledge and unique perspectives that enhance my primary projects. My journey includes creating engaging AR applications featured in Verizon stores, and developing VR scanners utilized in high-profile events like NCAA March Madness and the NBA All-Star Weekend. Additionally, my experience extends to diverse areas such as mesh network systems and SAAS enterprise software, showcasing my adaptability and breadth in technology",
     },
     {
         title: "Machine Learning & Computer Vision",
-        description: "With my new main quest in Machine Learning I've worked on a ton of technologies involving generative models, training models with proper datasets, computer vision and app store ready AI applications.",
+        description: "Embracing Machine Learning as my primary focus, I've delved deeply into an array of technologies including generative models, training with precise datasets, and computer vision. My journey in this domain has led me to develop App Store-ready AI applications, highlighting my proficiency in bridging the gap between cutting-edge AI technologies and practical, user-friendly applications.",
     },
 ];
 
